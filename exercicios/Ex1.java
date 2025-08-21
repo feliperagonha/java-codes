@@ -1,3 +1,5 @@
+ // EXERCÍCIO - OPERAÇÕES
+
 public class Ex1 {
     public static void main(String[] args) {
         int a = 10;
@@ -5,7 +7,7 @@ public class Ex1 {
 
         int soma = a + b;
         int multiplicacao = a * b;
-        int divisao = a / b;
+        int divisao = b / a; // para não ser 0
         int subtracao = a - b;
         int resto = a % b;
 
@@ -14,6 +16,5 @@ public class Ex1 {
         System.out.println("Divisao: " + divisao);
         System.out.println("Subtracao: " + subtracao);
         System.out.println("Resto: " + resto);
-
     }
 }
