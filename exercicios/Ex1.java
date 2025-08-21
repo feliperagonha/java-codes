@@ -1,4 +1,4 @@
- // EXERCÍCIO - OPERAÇÕES
+ // Exercício 1 - OPERAÇÕES utilizando números inteiros
 
 public class Ex1 {
     public static void main(String[] args) {
