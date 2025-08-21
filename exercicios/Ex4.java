@@ -22,5 +22,6 @@ public class Ex4 {
         } else {
             System.out.println("Odd number");
         }
+        scanner.close();
     }
 }
